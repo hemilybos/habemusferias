@@ -1,6 +1,0 @@
-flask
-pdfplumber
-python-docx
-lxml
-gunicorn
-docx2pdf
